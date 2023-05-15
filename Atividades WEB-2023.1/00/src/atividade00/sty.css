@@ -1,0 +1,24 @@
+.sty {
+  text-align: center;
+  font-size: 50px;
+  font-family: cursive;
+  background-color: rgb(78, 167, 222);
+  border-style: solid;
+  border-radius: 50px 60px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.stype {
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+  background-color: rgb(78, 167, 222);
+  margin: 32px auto;
+  display: block;
+  border-radius: 50px 60px;
+}
